@@ -15,4 +15,4 @@ normal text
 **kalın yazı** 
 *italik*
 <br/>
-`https://github.com/DILARAYVZ/git-dersleri.git`
+https://github.com/DILARAYVZ/git-dersleri.git
